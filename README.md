@@ -1,4 +1,5 @@
 LodePNG
+Fork by fishrosh from https://github.com/lvandeve/lodepng
 -------
 
 PNG encoder and decoder in C and C++, without dependencies
