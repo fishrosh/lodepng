@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.11)
 
-project(LODEPNG VERSION 1.0.0)
+project(lodepng VERSION 1.0.0)
 
-add_library(LODEPNG STATIC lodepng.cpp
+add_library(lodepng STATIC lodepng.cpp
 )
